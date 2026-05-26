@@ -1,0 +1,15 @@
+h1 {
+	color: orange;
+	font-style: italic;
+	padding: 2em;
+	border-bottom: 5px solid black;
+}
+
+h2 {
+	text-decoration: underline;
+	margin: 1em;
+}
+
+ul {
+	font-weight: bold;
+}
